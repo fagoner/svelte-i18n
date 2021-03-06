@@ -1,0 +1,13 @@
+{
+    "home": {
+        "topic": "Hola bienvenido a nuestro página",
+        "label": "Nuestros servicios",
+        "services": {
+            "web": "Desarrollo de aplicaciones web",
+            "backend": "Desarrollo Backend"
+        }
+    },
+    "switch": {
+        "lang": "Idioma"
+    }
+}

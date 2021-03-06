@@ -1,0 +1,13 @@
+{
+    "home": {
+        "topic": "Hi welcome to our website!",
+        "label": "Services",
+        "services": {
+            "web": "Web application development",
+            "backend": "Backend development"
+        }
+    },
+    "switch": {
+        "lang": "Language"
+    }
+}
