@@ -40,3 +40,6 @@ npm run dev
 - `LocalSwitcher.svelte` contains the select for the languages
 
 
+## Credits / Reference
+- [lokalise.com/svelte-i18n](https://lokalise.com/blog/svelte-i18n/)
+
